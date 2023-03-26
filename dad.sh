@@ -1,1 +1,1 @@
-my dad name is r manje gowda
+echo "my dad name r manje gowda"
